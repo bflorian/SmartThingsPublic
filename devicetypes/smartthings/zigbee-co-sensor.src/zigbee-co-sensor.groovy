@@ -30,6 +30,7 @@ metadata {
 
 		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000,0003,0500", outClusters: "0000", manufacturer: "ClimaxTechnology", model: "CO_00.00.00.22TC", deviceJoinName: "Ozom Smart Carbon Monoxide Sensor", mnmn: "SmartThings", vid: "generic-carbon-monoxide"
 		fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000,0003,0500", outClusters: "0000", manufacturer: "ClimaxTechnology", model: "CO_00.00.00.15TC", deviceJoinName: "Ozom Smart Carbon Monoxide Sensor", mnmn: "SmartThings", vid: "generic-carbon-monoxide"
+        fingerprint profileId: "0104", deviceId: "0402", inClusters: "0000,0003,0500", outClusters: "0000", manufacturer: "TestCo", model: "CO_00.00.00.15TC", deviceJoinName: "TestCo Carbon Monoxide Sensor", mnmn: "SmartThings", vid: "generic-carbon-monoxide"
 	}
 
 	tiles {
